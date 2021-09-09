@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(51, 59, 172);
+  text-align: center
+}
+
+#header {
+  color: whitesmoke;
+}
+
+.friend {
+  background-color: teal;
+}
+
+.friend > h3 {
+  text-transform: uppercase;
+}
+
+#smile {
+    filter: drop-shadow(30px 10px 4px #850000);
+}
